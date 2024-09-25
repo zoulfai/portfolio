@@ -92,7 +92,7 @@ Dans ce projet, j'ai mis en place des services web sécurisés pour un projet EX
 
 
 ### 03 : Déployez une architecture n-tiers pour une PME
-Dans ce projet, j'ai déployé une architecture n-tiers pour une PME, en configurant trois serveurs distincts : Apache/PHP, MySQL, et Bind9. J'ai déployé et configuré les services, mis en place les connexions entre eux, et assuré l'interaction du site web avec la base de données. J'ai utilisé des technologies telles que VM, Vagrant, et Docker pour optimiser l'architecture. J'ai également documenté le processus en détail et fourni un schéma de l'architecture pour faciliter sa maintenance par l'équipe d'exploitation.
+Dans ce projet, j'ai déployé une architecture n-tiers pour une PME, en configurant trois serveurs distincts : Apache/PHP, MySQL, et Bind9. J'ai déployé et configuré les services, mis en place les connexions entre eux, et assuré l'interaction du site web avec la base de données. J'ai utilisé des VM pour optimiser l'architecture. J'ai également documenté le processus en détail et fourni un schéma de l'architecture pour faciliter sa maintenance par l'équipe d'exploitation.
 
 <img
   class="fit-picture"
