@@ -15,7 +15,7 @@ Dans ce projet, j'ai été chargé de migrer une application de sécurisation de
 
 <img
   class="fit-picture"
-  src="/assets/Nimbus-Corp.png"
+  src="/assets/adminsys/Nimbus-Corp.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 11 : Évaluez et améliorez le niveau de sécurité d'un domaine Windows et de l'Active Directory associé
@@ -23,7 +23,7 @@ Dans ce projet, j'ai mené un audit exhaustif de la sécurité d'un domaine Wind
 
 <img
   class="fit-picture"
-  src="/assets/openpharma.png"
+  src="/assets/adminsys/openpharma.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 10 : Sécurisez le réseau d'une grande entreprise
@@ -31,7 +31,7 @@ Dans ce projet, j'ai été chargé de migrer une application de sécurisation de
 
 <img
   class="fit-picture"
-  src="/assets/Clinique-de-Frontignan.png"
+  src="/assets/adminsys/Clinique-de-Frontignan.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 09 : Mettez en place une nouvelle solution de sauvegarde
@@ -39,7 +39,7 @@ Dans ce projet, j'ai testé deux stratégies de sauvegarde distinctes pour une m
 
 <img
   class="fit-picture"
-  src="/assets/mairie-logo-mareuil-logo.png"
+  src="/assets/adminsys/mairie-logo-mareuil-logo.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 ### 08 : Gérez le parc informatique d'une PME
@@ -47,7 +47,7 @@ Dans ce projet, j'ai géré le parc informatique d'une PME en mettant en place u
 
 <img
   class="fit-picture"
-  src="/assets/barzini.png"
+  src="/assets/adminsys/barzini.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -56,7 +56,7 @@ Dans ce projet, j'ai supervisé le système d'information d'une entreprise en me
 
 <img
   class="fit-picture"
-  src="/assets/media-sante-logo.png"
+  src="/assets/adminsys/media-sante-logo.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -66,7 +66,7 @@ Dans ce projet, j'ai configuré les équipements réseau d'un nouveau site compo
 
 <img
   class="fit-picture"
-  src="/assets/impact.png"
+  src="/assets/adminsys/impact.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -76,7 +76,7 @@ Dans ce projet, j'ai configuré un environnement ADDS-RODC-VPN pour permettre un
 
 <img
   class="fit-picture"
-  src="/assets/open-blank-logo.png"
+  src="/assets/adminsys/open-blank-logo.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -86,7 +86,7 @@ Dans ce projet, j'ai mis en place des services web sécurisés pour un projet EX
 
 <img
   class="fit-picture"
-  src="/assets/rainbow.png"
+  src="/assets/adminsys/rainbow.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -96,7 +96,7 @@ Dans ce projet, j'ai déployé une architecture n-tiers pour une PME, en configu
 
 <img
   class="fit-picture"
-  src="/assets/beesafe.png"
+  src="/assets/adminsys/beesafe.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -106,7 +106,7 @@ Dans ce projet, j'ai conçu et mis en place le réseau local d'une startup, en �
 
 <img
   class="fit-picture"
-  src="/assets/hillstart.png"
+  src="/assets/adminsys/hillstart.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 
@@ -116,7 +116,7 @@ Dans ce projet, j'ai géré les demandes quotidiennes de l'entreprise OpenShowro
 
 <img
   class="fit-picture"
-  src="/assets/openshowroom.png"
+  src="/assets/adminsys/openshowroom.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 

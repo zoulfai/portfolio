@@ -1,35 +1,30 @@
 ---
 title: Developpeur web
 publishDate: 2024-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+   Vous trouverez ici un recap de tout les projets réalisé en lien avec le metier de developpeur web.
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Rigueur
+  - Adaptabilité
+  - Créativité
 ---
 
-## Level-two heading
+Le lien github pour voir les projets <a href="https://github.com/zoulfai/">Cliquez ici !</a>
+### 06 : Créez un réseau social d’entreprise
+Dans ce projet, j’ai construit un réseau social interne pour Groupomania en utilisant Vue.js pour le frontend et Node.js pour le backend. J'ai configuré la base de données avec phpMyAdmin et importé le fichier SQL. J’ai déployé le backend avec nodemon et le frontend avec yarn serve. Ce projet m’a permis de développer mes compétences en développement full-stack, gestion de base de données, et intégration d’outils.
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+### 05 : Intégrez une API sécurisée pour une application 
+Dans ce projet, j’ai développé l’API pour l’application web « Hot Takes » de Piiquante, permettant aux utilisateurs de partager, liker ou disliker des sauces piquantes. L'API a été construite en respectant des normes de sécurité strictes, incluant le cryptage des mots de passe et la protection des données utilisateurs. Ce projet m'a permis de renforcer mes compétences en développement back-end, sécurité API, et gestion des bases de données.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+### 04 : Créez un site e-commerce thématique avec une gestion de panier
+Dans ce projet, j'ai développé le front-end du MVP d'Orinoco, une plateforme e-commerce thématique. J'ai implémenté les fonctionnalités JavaScript pour gérer le panier avec localStorage et les paramètres de requête pour la page produit. J’ai aussi rédigé un plan de tests pour valider le bon fonctionnement de l’application. Ce projet m'a permis d'améliorer mes compétences en JavaScript, développement e-commerce, et tests front-end.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+### 03 : Améliorez le SEO et l'accessibilité d'un site web
+Dans ce projet, j’ai analysé et optimisé le SEO du site de "La chouette agence", en mettant en œuvre 10 recommandations, notamment sur la vitesse, la taille du site, et l’accessibilité. J'ai amélioré le code source en HTML et CSS, et comparé les performances avant et après optimisation. Ce projet m'a permis de développer mes compétences en SEO, optimisation de la vitesse des pages, accessibilité web, et dynamisation de contenu avec des animations CSS.
 
-### Level-three heading
+### 02 : Développez un site mobile-first pour la restauration
+Dans ce projet, j’ai développé le site mobile de Ohmyfood! en intégrant 4 menus de restaurants gastronomiques. J’ai travaillé en étroite collaboration avec le CTO et l’UX designer pour assurer une expérience utilisateur fluide, permettant aux clients de composer leur menu à l’avance. Ce projet m'a permis de développer mes compétences en développement mobile-first, intégration de contenu gastronomique, et collaboration avec une équipe multidisciplinaire.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+### 01 : Transformez une maquette en site web
+Dans ce projet, j’ai intégré la maquette responsive de Reservia en HTML et CSS, sans utiliser de framework. J’ai mis en place une structure responsive adaptée aux desktops, tablettes et mobiles, en utilisant Flexbox et Grid. J'ai versionné le code avec Git et déployé le site sur GitHub Pages. Ce projet m’a permis de renforcer mes compétences en intégration web, gestion d’images optimisées, et utilisation des balises sémantiques.
 
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
